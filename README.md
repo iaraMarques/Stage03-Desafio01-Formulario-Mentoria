@@ -43,7 +43,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
       
 <br/>
 
-- [Visite o projeto online](https://iaramarques.github.io/Stage03-Projeto01-Formulario-para-Eventos/)
+- [Visite o projeto online](https://iaraMarques.github.io/Stage03-Desafio01-Formulario-Mentoria)
 
 <br/>
 
